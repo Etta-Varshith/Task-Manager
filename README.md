@@ -1,7 +1,7 @@
-##Task Manager
+## Task Manager
 - This is a sample task manager web application built using HTML css and Javascript
 
-##Functionalities
+## Functionalities
 -Some functionalities include:
 - Adding a task by filling details as follows:
   -i) Entering the task name
